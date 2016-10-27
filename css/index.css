@@ -425,14 +425,14 @@ body {
     overflow: hidden; }
     .pinpai-bottom .content-info .shop-name {
       color: #2f2f2f;
-      font-size: 0.3rem;
+      font-size: 0.2rem;
       height: 0.3rem;
       margin-left: 3px;
       overflow: hidden;
       width: 100%; }
     .pinpai-bottom .content-info .shop-desc {
       color: #9b9b9b;
-      font-size: 0.3rem;
+      font-size: 0.2rem;
       height: 0.3rem;
       margin-top: 3px;
       margin-left: 3px;
@@ -460,13 +460,13 @@ body {
         .guess-box ul li a > span {
           display: block;
           padding: 0 0.15rem;
-          font-size: 0.25rem;
+          font-size: 0.2rem;
           color: #666; }
           .guess-box ul li a > span span {
             color: #DD2727;
-            font-size: 0.25rem; }
-          .guess-box ul li a > span .small {
             font-size: 0.2rem; }
+          .guess-box ul li a > span .small {
+            font-size: 0.1rem; }
           .guess-box ul li a > span .le {
             margin-left: -0.05rem; }
 
